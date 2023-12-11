@@ -97,3 +97,24 @@ For the land erosion prediction component, the project folder incorporates .ipyn
 
 ## Project Layout
 ![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/273bcd94-2137-4835-ac23-45549c41372b)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/adf90ae5-9a1e-43e2-9f00-3ca604219869)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/9c7271d9-22ed-46cd-bd9e-acf38bb58691)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/59d2e1a6-b31b-4c34-aa7c-3b1c838badb5)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/bc63f8a0-df96-4f32-876f-1e1f59460cf7)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/9de70f69-8cb7-48f5-993c-c57457038dde)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/47e1e78c-0ed5-41e1-9c95-fa50d3fa31a4)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/d9ad34a5-b766-41f7-8191-710be4441821)
+
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/1a74a26d-7fd0-4626-9e60-c66f6a30ac67)
+
+
+
+
+
