@@ -96,3 +96,4 @@ For the land erosion prediction component, the project folder incorporates .ipyn
 5. Access various functionalities through the provided views.
 
 ## Project Layout
+![image](https://github.com/simranadwani/Environmental-Insight-Project/assets/118894785/273bcd94-2137-4835-ac23-45549c41372b)
